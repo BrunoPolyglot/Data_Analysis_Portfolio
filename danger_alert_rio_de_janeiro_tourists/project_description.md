@@ -1,21 +1,33 @@
 # Project: Danger Alert to Rio De Janeiro's Tourists
 
 ## Introduction
-### This projects allows me to showcase my data analysis skills and perfom different techniques in order to extract meaningful insights from data. It particularly personal because I come from Brazil and I got robbed in Rio de Janeiro so I thought that I could through data, alert about the danger that tourists might be exposed to. My Tableau's storytelling presentation tries to bring the attention to crimes, in particular robbery and theft of vehicles and cellphone as tourists usually are more exposed to this kind of crimes. My story focus on showing increases of decreases of robbery in Rio de Janeiro from 2010 untill June of 2023. 
+### This project allows me to showcase my data analysis skills and perfom different techniques to extract meaningful insights from data. It is particularly personal because I come from Brazil and I had a robbery experience in Rio de Janeiro. Through data analysis, I aim to raise awareness about the potential dangers that tourists might encounter. My Tableau storytelling presentation focuses on highlighting crimes, specifically robberies and thefts of vehicles and cellphones, as tourists are often more vulnerable to these types of crimes. My story centers on showing the trends in robbery incidents in Rio de Janeiro from 2010 until June 2023.
 
 ## Project Overwiew
-### This project focus on a visual presentation on tableau [here's the link](https://public.tableau.com/app/profile/bruno.araujo.de.carvalho/viz/DangerAlerttoRioDeJaneirosTourists/DangerAlertToRioDeJaneirosTourists?publish=yes). The presentation is composed of four slides. In the first one there is the cover page with an illustration of tourism on the right and the danger on the left, in which you can see a fight in the street. 
-### In second slide, there is a overview of robbery and theft in the state of Rio de Janeiro to show how these crimes increased before the COVID 19 and then the situation now.
-### in the thrid one. I wanted to show how lany vehicles are stolen, many tourists neglect the danger of driving a car. They might think that they are safe but as soon as they stop in the traffic light they might be in danger.
-### In the fourth one, I wanted to show what it is the "easiest" way to get stolen. Anytime you put your cellphone out you are probably been watched for someone who is there looking for the opportunity to steal. That might be a pick pocket or a man with a gun. In my case, a man stole my cellphone threating me with a knife. 
+### This project features a visual presentation on Tableau [here's the link](https://public.tableau.com/app/profile/bruno.araujo.de.carvalho/viz/DangerAlerttoRioDeJaneirosTourists/DangerAlertToRioDeJaneirosTourists?publish=yes). The presentation consists of four slides. The first slide serves as a cover page with an illustration contrasting tourism on the right and the danger on the left, depicting a street fight. 
+### On the second slide, there is an overview of robbery and theft incidents in the state of Rio de Janeiro to demonstrate how these crimes increased before COVID 19 and their current status.
+### The thrid slide highlights vehicle robbery, emphasizing that many tourists underestimate the danger of driving in Rio. They might feel safe but once they stop at a traffic light, they become vulnerable.
+### The fourth slide focuses on the "easiest" way to become a victim, which is when tourists take out their cellphones. Anyone who does so is likely being watched by someone seeking an opportunity to steal. This could be a pickpocket or even someone with a weapon, as in my case when a man stole my cellphone while threatening me with a knife.
 
 ## Data Exploration
-### The data comes from the website of the Rio de Janeiro State [ISPDados](ispdados.rj.gov.br). I download the data and translate the columns' names using CHAT GPT. 
-### Then, I did a EDA or ***Exploratory Data Analysis*** on kaggle [here's the link](https://www.kaggle.com/code/bruharauj123/eda-rio-de-janeiro-s-crimes-from-2000-till-2023). In this 
+### The data is sourced from the Rio de Janeiro State's website [ISPDados](ispdados.rj.gov.br). I downloaded the data and translated the column names using CHAT GPT. 
+### I then conducted an Exploratory Data Analysis (EDA) on Kaggle [here's the link to Kaggle](https://www.kaggle.com/code/bruharauj123/eda-rio-de-janeiro-s-crimes-from-2000-till-2023), and this EDA is also available in my project's GitHub folder [here's the link to the file on Github](https://github.com/BrunoPolyglot/Data_Analysis_Portfolio/blob/main/danger_alert_rio_de_janeiro_tourists/EDA%20exploratory%20data%20analysis/eda-rio-de-janeiro-s-crimes-from-2000-till-2023.ipynb).  It was during this analysis that I noticed the high level of robbery incidents in Rio de Janeiro, leading to my decision to raise awareness among tourists.
+
 ## Storytelling
+### I chose to start with a general informative graph displaying the total number of robberies and thefts in the state of Rio de Janeiro to introduce the subject. I then delved into vehicle robberies and, finally, discussed cellphone robbery and theft. I believe that tourists should be more vigilant about the latter, as they often underestimate this risk and use their cellphones openly in the streets.
+
 ## Tools and Technologies
+### * ***Python***: I used Python for exploratory data analysis, utilizing libraries such as Matplotlib and Seaborn for data visualization and Pandas for data preparation. 
+### * ***Tableau***: I used Tableau as a BI platform to create meaningful insights through visualization to tell the story of the danger in Rio de Janeiro.
+
 ## Data Visualization
+### I employed Tableau to craft a compelling narrative through data visualization. The ability to tell a story with data excites me, and in this case, I aim to alert people to the dangers in Rio de Janeiro by presenting real cases and persuading tourists to take precautions when traveling to Brazil.
+
 ## Results and Impact
+### The results indicate that the state of Rio de Janeiro is a dangerous place to visit. Furthermore, it shows that the state became increasingly dangerous until 2019, just before the COVID-19 pandemic. However, it is evident that after the COVID-19 period, the levels of robbery and theft started to rise again, suggesting that these crimes may continue to increase in the future. I aimed not to provide a definitive interpretation but to encourage people to question whether it is truly safe. My goal is to promote an understanding of the danger and create awareness of the critical situation.
+
 ## Challenges and Lessons Learned
-## Acknowledgments 
+### This project provided an opportunity to work with Python, specifically Matplotlib and Pandas. Through this experience, I gained practical experience with Python in a real-world project. Tableau presented its own challenges, such as selecting the appropriate graph types and problem-solving. I also learned new features in both Python and Tableau, including combining two graphs in Python for comparison and using parameters and storytelling in Tableau. 
+
 ## Conclusion
+### This project was a rewarding experience that pushed me to think creatively to find solutions and improve the presentation of graphs. I also learned how to navigate through this project using online resources, CHAT GPT, and forums. This experience significantly enhanced my knowledge of both Tableau and Python.
