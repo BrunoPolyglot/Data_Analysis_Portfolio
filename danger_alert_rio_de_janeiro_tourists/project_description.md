@@ -11,7 +11,7 @@
 
 ## Data Exploration
 ### The data comes from the website of the Rio de Janeiro State [ISPDados](ispdados.rj.gov.br). I download the data and translate the columns' names using CHAT GPT. 
-### Then, I did a EDA 
+### Then, I did a EDA or ***Exploratory Data Analysis*** on kaggle [here's the link](https://www.kaggle.com/code/bruharauj123/eda-rio-de-janeiro-s-crimes-from-2000-till-2023). In this 
 ## Storytelling
 ## Tools and Technologies
 ## Data Visualization
