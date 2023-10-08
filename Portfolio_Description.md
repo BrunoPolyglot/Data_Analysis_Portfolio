@@ -6,10 +6,17 @@
 #### ***Click on the title of the project to go directly to its folder.***
 
 ## [Project: Danger Alert to Rio de Janeiro's tourists](https://github.com/BrunoPolyglot/Data_Analysis_Portfolio/tree/main/danger_alert_rio_de_janeiro_tourists)
+#### [Here's the link directly to the dashboard on Tableau](https://public.tableau.com/app/profile/bruno.araujo.de.carvalho/viz/DangerAlerttoRioDeJaneirosTourists/DangerAlertToRioDeJaneirosTourists)
 ### This project allowed me to showcase my proficiency in Python and Tableau, as well as my commitment to continuous improvement. Here are the tools and platforms I utilized.
 * ##### Python: Matplotlib, seaborn and pandas.
 * ##### Tableau 
 * ##### Kaggle 
 * ##### Github
 
-## [Project: French Tech Companies Analysis]()
+## [Project: French Tech Companies Analysis](https://github.com/BrunoPolyglot/Data_Analysis_Portfolio/tree/main/Stock%20Market%20Dashboard)
+#### [Here's the link directly to the dashboard on Tableau](https://public.tableau.com/app/profile/bruno.araujo.de.carvalho/viz/FrenchStockMarketDashboard/Dashboard1)
+### This project showcases my skills in Tableau and Python. It was a hands-on project that enhanced my skills in Data Visualization and stock market. Here are the tools and platforms I utilized. 
+* ##### Python: Pandas
+* ##### Tableau
+* ##### Yahoo Finance
+* ##### Github 
