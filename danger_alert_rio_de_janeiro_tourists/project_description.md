@@ -17,8 +17,8 @@
 ### I chose to start with a general informative graph displaying the total number of robberies and thefts in the state of Rio de Janeiro to introduce the subject. I then delved into vehicle robberies and, finally, discussed cellphone robbery and theft. I believe that tourists should be more vigilant about the latter, as they often underestimate this risk and use their cellphones openly in the streets.
 
 ## Tools and Technologies
-### * ***Python***: I used Python for exploratory data analysis, utilizing libraries such as Matplotlib and Seaborn for data visualization and Pandas for data preparation. 
-### * ***Tableau***: I used Tableau as a BI platform to create meaningful insights through visualization to tell the story of the danger in Rio de Janeiro.
+* ### ***Python***: I used Python for exploratory data analysis, utilizing libraries such as Matplotlib and Seaborn for data visualization and Pandas for data preparation. 
+* ### ***Tableau***: I used Tableau as a BI platform to create meaningful insights through visualization to tell the story of the danger in Rio de Janeiro.
 
 ## Data Visualization
 ### I employed Tableau to craft a compelling narrative through data visualization. The ability to tell a story with data excites me, and in this case, I aim to alert people to the dangers in Rio de Janeiro by presenting real cases and persuading tourists to take precautions when traveling to Brazil.
