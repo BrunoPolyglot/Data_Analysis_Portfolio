@@ -5,8 +5,8 @@
 
 #### ***Click on the title of the project to go directly to its folder.***
 
-##[Project: Identifying Reasons for High_Risk in Pregnant Women ](https://github.com/BrunoPolyglot/Data_Analysis_Portfolio/tree/main/Identifying_Reasons_for_High_Risk_in_Pregnant_Women)
-#### This project consists in investigating the dataset about Pregnant women in Bangladesh to identify the Reasons for high risk in pregnant women. Here is the tool used for this project:
+## [Project: Identifying Reasons for High_Risk in Pregnant Women ](https://github.com/BrunoPolyglot/Data_Analysis_Portfolio/tree/main/Identifying_Reasons_for_High_Risk_in_Pregnant_Women)
+### This project consists in investigating the dataset about Pregnant women in Bangladesh to identify the Reasons for high risk in pregnant women. Here is the tool used for this project:
 * ##### SQL (postgreSQL)
 
 ## [Project: Danger Alert to Rio de Janeiro's tourists](https://github.com/BrunoPolyglot/Data_Analysis_Portfolio/tree/main/danger_alert_rio_de_janeiro_tourists)
