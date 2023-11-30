@@ -5,7 +5,7 @@
 
 #### ***Click on the title of the project to go directly to its folder.***
 
-## [Project: Employee Salary Analysis](https://github.com/BrunoPolyglot/Data_Analysis_Portfolio/blob/main/Employees_salaries_analysis/Employee_salary_analysis.md)
+## [Project: Employee Salary Analysis](https://github.com/BrunoPolyglot/Data_Analysis_Portfolio/tree/main/Employee_salary_analysis)
 ### This project involves exploring, cleaning, and preprocessing data from various tables within a business company using SQL. The goal is to extract pertinent information utilized in Power BI to generate visualizations, providing an analysis of employee salaries across departments. The aim is to understand the patterns of salary increases, highs, lows, and average salaries.
 
 ## [Project: Identifying Reasons for High_Risk in Pregnant Women ](https://github.com/BrunoPolyglot/Data_Analysis_Portfolio/tree/main/Identifying_Reasons_for_High_Risk_in_Pregnant_Women)
